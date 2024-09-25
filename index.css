@@ -17,4 +17,7 @@ body {
 }
 .birthday {
 max-height: 40vh;
+display: flex;
+align-items: center; /* Aligns items vertically */
+justify-content: center; /* 
 }
